@@ -1,0 +1,18 @@
+{
+	"basics":{
+		"name":"Kalyan Chakravarthi P",
+		"role":"MERN Developer",
+		"email":"kalyanchakravarthi.p@apssdc.in",
+		"mobile":"+91 9603487813",
+		"address":"Amaravathi, Guntur, AndhraPradesh"
+	},
+
+	"summary":[
+		"Having 6+ years of experience in software industry starting from web designer",
+		"Built web sites using Languages like PHP, JAVA and JavaScript",
+		"Developed few softwares using pega tool",
+		"Having practical exposure on Hybrid application development",
+		"Having knowledge on databases like mySql, Mongo,PDO",
+		"Used JavaScript libraries like Redux, jQuery, ReactJs, Howler and HighCharts"
+	]
+}
